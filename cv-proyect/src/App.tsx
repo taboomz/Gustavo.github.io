@@ -7,13 +7,11 @@ import About from './components/about/About'
 
 function App() {
   return (
-    <div >
+    <div className='container'>
 
       <Header />
       <Home />
-      <About />
-
-     
+      <About /> 
 
     </div>
     
